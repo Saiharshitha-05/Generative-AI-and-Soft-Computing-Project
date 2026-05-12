@@ -1,0 +1,7 @@
+python
+sql
+html
+css
+power bi
+javascript
+java
